@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Application/FirstProject/app/src/main/res/drawable/bg_edt.xml" value="0.2885" />
         <entry key="..\:/Android Application/FirstProject/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android Application/FirstProject/app/src/main/res/layout/activity_sign_in.xml" value="0.32563405797101447" />
       </map>
     </option>
   </component>
