@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Application/FirstProject/app/src/main/res/drawable/bg_btn.xml" value="0.198" />
+        <entry key="..\:/Android Application/FirstProject/app/src/main/res/drawable/bg_edit.xml" value="0.198" />
         <entry key="..\:/Android Application/FirstProject/app/src/main/res/drawable/bg_edt.xml" value="0.2885" />
         <entry key="..\:/Android Application/FirstProject/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Android Application/FirstProject/app/src/main/res/layout/activity_sign_in.xml" value="0.32563405797101447" />
+        <entry key="..\:/Android Application/FirstProject/app/src/main/res/layout/activity_splac_screen.xml" value="0.317481884057971" />
+        <entry key="..\:/Android Application/FirstProject/app/src/main/res/layout/list.xml" value="0.32382246376811596" />
       </map>
     </option>
   </component>
